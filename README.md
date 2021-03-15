@@ -31,11 +31,13 @@ Because this application won’t be deployed, you’ll also need to create a wal
 
   *Steps required to install project and how to get the development environment running:*
   
-💽💽 1.Run npm install to install all dependencies.
+💽💽 Installation is a process of installing the dependencies required. Intialize node package manager and then run the following commands:
   <br />
-      2.Run schema.sql in MySQLWorkbench.  (Optional) Run seeds.sql in MySQLWorkbench.
+      1.npm install mysql2
   <br />
-      3.Edit MySQL connection properties in the connectionProperties object in index.js
+      2.npm install sequelize
+  <br />
+      3.npm install dotenv
   <br />
   
   
