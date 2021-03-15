@@ -37,10 +37,14 @@
   <br />
   
   
-  ## Usage
+  ## Tech Used
   *Instructions and examples for use:*
-  
-  📚 In order to run this application, This application is run in your terminal following a prompt a questions and choosing your team.
+    
+ 1. Node
+ 2. Express
+ 3. MySQL
+ 4. Sequelize
+ 5. Dotenv
   
   *Demo*
 
@@ -82,7 +86,6 @@
   repo link: [readme-repo-link](https://github.com/emilychhun/E-commerce-)
   
   <br />
-  
    Application link: [Video](https://drive.google.com/file/d/17qZTb6EggLO8qVcXxTum2qqTdHV6icQU/view)
   
   <br />
