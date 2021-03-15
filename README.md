@@ -84,8 +84,8 @@
   <br />
 
   repo link: [readme-repo-link](https://github.com/emilychhun/E-commerce-)
-  
-  <br />
-   Application link: [Video](https://drive.google.com/file/d/17qZTb6EggLO8qVcXxTum2qqTdHV6icQU/view)
+   <br />
+   
+  Application link: [Video](https://drive.google.com/file/d/17qZTb6EggLO8qVcXxTum2qqTdHV6icQU/view)
   
   <br />
