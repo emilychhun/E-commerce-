@@ -12,7 +12,9 @@
 
   *The what, why, and how:* 
   
-  🔍 A CLI content management system for managing a company's employees using node, inquirer, and MySQL. Employee Tracker is a CLI applicaiton for building and maintaining companies employee data base. Built on MySQL and leveraging modularity in the structure of Employee Tracker, it can scale appropriatley with a companies growth without reconfiguring the core structure of the internal employee data base. This application allows the user to insert new data such as departments, roles, employees to data base.  In addition, user can view, update and delete company's data on all departments, role and employees that we install in data base.   
+  🔍 Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
+Your challenge is to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project. 
 
  *Check out the [ExampleREADME.md](https://github.com/emilychhun/E-commerce-/blob/main/README.md) as an example.*
   <br />
@@ -85,7 +87,7 @@
 
   repo link: [readme-repo-link](https://github.com/emilychhun/E-commerce-)
    <br />
-   
+
   Application link: [Video](https://drive.google.com/file/d/17qZTb6EggLO8qVcXxTum2qqTdHV6icQU/view)
   
   <br />
