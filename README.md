@@ -56,6 +56,7 @@ Because this application won’t be deployed, you’ll also need to create a wal
   <br />
   
  ![alt text](https://github.com/emilychhun/E-commerce-/blob/main/E-commerce1.gif "Logo Title Text 1")
+ ![alt text](https://github.com/emilychhun/E-commerce-/blob/main/E-commerce1.gif "Logo Title Text 1")
   
   ## Licence
   📝📑
