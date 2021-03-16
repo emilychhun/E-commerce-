@@ -93,6 +93,8 @@ Because this application won’t be deployed, you’ll also need to create a wal
    <br />
 
   Application link: [Video](https://drive.google.com/file/d/1nXrq3arvMgbQKexKBCq4l5roM25MnBVq/view)
-  Application link: [Video](https://drive.google.com/file/d/1nXrq3arvMgbQKexKBCq4l5roM25MnBVq/view)
+  <br />
+  
+  Application link: [Video](https://drive.google.com/file/d/1mReYHKJg30lGj2GtSykMcDttJjYTW1wF/view)
   
   <br />
