@@ -2,14 +2,14 @@
 // Dependencies
 // =============================================================
 
-const express = require('express');
-const sequelize = require('./config/connection');
-const routes = require('./routes');
+let express = require('express');
+let sequelize = require('./config/connection');
+let routes = require('./routes');
 // Sets up the Express App
 // =============================================================
 
-const app = express();
-const PORT = process.env.PORT || 3001;
+let app = express();
+let PORT = process.env.PORT || 3001;
 
 // Sets up the Express app to handle data parsing
 app.use(express.json());

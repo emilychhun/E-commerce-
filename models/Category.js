@@ -1,6 +1,6 @@
-const { Model, DataTypes } = require('sequelize');
+let { Model, DataTypes } = require('sequelize');
 
-const sequelize = require('../config/connection.js');
+let sequelize = require('../config/connection.js');
 
 //creat our User model
 class Category extends Model {}

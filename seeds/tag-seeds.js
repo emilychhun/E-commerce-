@@ -1,6 +1,6 @@
-const { Tag } = require('../models');
+let { Tag } = require('../models');
 
-const tagData = [
+let tagData = [
   {
     tag_name: 'rock music',
   },
@@ -27,6 +27,6 @@ const tagData = [
   },
 ];
 
-const seedTags = () => Tag.bulkCreate(tagData);
+let seedTags = () => Tag.bulkCreate(tagData);
 
 module.exports = seedTags;
