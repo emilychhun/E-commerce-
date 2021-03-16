@@ -92,6 +92,7 @@ Because this application won’t be deployed, you’ll also need to create a wal
   repo link: [readme-repo-link](https://github.com/emilychhun/E-commerce-)
    <br />
 
-  Application link: [Video](https://drive.google.com/file/d/17qZTb6EggLO8qVcXxTum2qqTdHV6icQU/view)
+  Application link: [Video](https://drive.google.com/file/d/1nXrq3arvMgbQKexKBCq4l5roM25MnBVq/view)
+  Application link: [Video](https://drive.google.com/file/d/1nXrq3arvMgbQKexKBCq4l5roM25MnBVq/view)
   
   <br />
