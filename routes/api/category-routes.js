@@ -14,9 +14,7 @@ router.get('/', (req, res) => {
         model: Product,
         attributes: ['product_name']
       }
-    }
-  )
-    .then(categoryData => res.json(categoryData))
+    }).then(categoryData => res.json(categoryData))
     .catch(err => {
       console.log(err);
       res.status(500).json(err);
